@@ -3,7 +3,8 @@ Description:
 
 Method:
 	This program coupled original C-based VIC model and Fortran-based routing model (Lohmann routing model),
-	then this new VIC model is further encapsulated as a function for the Borg algorithm to call.
+	then this new VIC model is further encapsulated as a function for the Borg algorithm to call and conduct
+	automatic parameters calibration
 
 Highlights:
 	water yielding module was coupled with water routing module to create a new VIC model
