@@ -21,7 +21,7 @@ Usage:
 	# compile 
 		Unzip the C-files.rar and H-files.rar files, and place the c and h files in the src directory
 		Copy other files to the same src file
-	Run make in the operating system terminal
+		Run make in the operating system terminal
 
 	# run
 		Run ./VIC-Borg.exe -g chanliu.txt in the operating system terminal
