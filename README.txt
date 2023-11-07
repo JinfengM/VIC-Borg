@@ -12,7 +12,7 @@ Highlights:
 	C-based Borg MOEA was used to calibrate the new VIC model 
 	To facilitate the use of beginners, the usage of all control files is retained
 
-Usage
+Usage:
 	How to compile and run VIC-Borg ?
 	
 	# Notice:
@@ -26,6 +26,11 @@ Usage
 	# run
 		Run ./VIC-Borg.exe -g chanliu.txt in the operating system terminal
 
-control file
+control file:
 	chanliu.txt is a original VIC model control file
 	rout_input.txt is a original routing model control file
+
+Notice:
+	VIC model's source code is from https://github.com/UW-Hydro/VIC, users can access the source code here.
+	Borg algorithm's source code is from http://borgmoea.org/, users are required to complete the Google form to request access to the source code.
+	We thank both the developers of the VIC model and Borg algorithm for their great contribution.
