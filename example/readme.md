@@ -1,3 +1,6 @@
+# Enther the 'example' directory
+0. cd example
+
 # Unzip the example file 'example.tar.gz*' to obtain the 'run_lh' directory.
 1. cat example.tar.gz* | tar -xzv
 
