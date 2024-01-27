@@ -9,5 +9,5 @@
 4.
 # To copy the run_lh directory to the /home/dell/mjf/ directory
 5.cp -r run_lh /home/dell/mjf/
-
 # To ensure the '/home/dell/mjf/run_lh' exists
+6. 
