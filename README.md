@@ -1,5 +1,5 @@
 # Description:
-	Using Borg multi-objective evolutionary algorithm (MOEA) to calibrate VIC (Variable Infiltration Capacity) model
+	#Using Borg multi-objective evolutionary algorithm (MOEA) to calibrate VIC (Variable Infiltration Capacity) model
 
 # Method:
 	This program coupled original C-based VIC model and Fortran-based routing model (Lohmann routing model),
@@ -52,4 +52,7 @@
 
 # Run 'run_VICBorg.sh'
 	8. ./run_VICBorg.sh
-	
+# Get the result
+	9. Each iteration result is stored in the file '/home/dell/mjf/run_lh/chanliu_result/vic-borg.set'
+ 	10. The final Pareto results are stored in the file '/home/dell/mjf/run_lh/chanliu_result/output.txt'.
+  	11. Both files have same structure: "The first six columns are decision variables, and the last three columns are the values of the objective functions."
