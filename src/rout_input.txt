@@ -1,0 +1,27 @@
+# Sample Routing Information File; RCSID: $Id: input.sample,v 1.2 2006/08/26 01:26:56 vicadmin Exp $
+# NAME OF FLOW DIRECTION FILE,流向文件，1-8方向
+/home/dell/mjf/run_lh/flow_1_8_format.txt
+# NAME OF VELOCITY FILE
+.false.
+1.50
+# NAME OF DIFF FILE
+.false.
+800
+# NAME OF XMASK FILE
+.true.
+/home/dell/mjf/run_lh/output_area_mask.txt
+# NAME OF FRACTION FILE
+.true.
+/home/dell/mjf/run_lh/fraction.txt
+# NAME OF STATION FILE
+/home/dell/mjf/run_lh/area_stnloc.txt
+# PATH OF INPUT FILES AND PRECISION
+/home/dell/mjf/run_lh/chanliu_result/fluxes_
+4
+# PATH OF OUTPUT FILES
+/home/dell/mjf/run_lh/chanliu_result/
+# YEAR AND MONTH OF MODEL OUTPUT TO ROUTE & ROUTED OUTPUT TO WRITE
+2008 01 2016 12
+2011 01 2016 12
+# NAME OF UNIT HYDROGRAPH FILE
+/home/dell/mjf/run_lh/UH.all
