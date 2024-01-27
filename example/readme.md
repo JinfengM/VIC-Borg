@@ -4,7 +4,7 @@ tar -zxvf example_files.tar.gz
 
 # Create a directory at '/home/dell/mjf'
 
-# To ensure that the '/home/dell/mjf' directory exists before 
+# To ensure that the '/home/dell/mjf' directory exists
 
 # To copy the run_lh directory to the /home/dell/mjf/ directory
 cp -r run_lh /home/dell/mjf/
