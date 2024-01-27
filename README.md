@@ -51,7 +51,8 @@
 	7. cd src
 
 # 8 Run 'run_VICBorg.sh'
-	8. ./run_VICBorg.sh
+	8.1 chmod +x run_VICBorg.sh
+	8.2 ./run_VICBorg.sh
 # 9 Get the result
 	9.1. Each iteration result is stored in the file '/home/dell/mjf/run_lh/chanliu_result/vic-borg.set'
  	9.2. The final Pareto results are stored in the file '/home/dell/mjf/run_lh/chanliu_result/output.txt'.
