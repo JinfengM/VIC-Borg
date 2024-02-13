@@ -48,7 +48,8 @@
 	6. 
 
 # 7 Enther the 'src' directory
-	7. cd src
+	7.1 cd src
+ 	7.2 make sure 'rout_input.txt' file exist, which is used by streamflow routing module.
 
 # 8 Run 'run_VICBorg.sh'
 	8.1 chmod +x run_VICBorg.sh
